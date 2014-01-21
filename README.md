@@ -1,5 +1,5 @@
 Cryptocurrency Mining Monitoring Scripts
-========================================
+----------------------------------------
 
 Requirements
 ************
